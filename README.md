@@ -2,9 +2,6 @@
 <p align="center">
   I am a pre final year student from Vellore Institute of Technology. I someone who tris
 </p>
-
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/gthejin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.kaggle.com/thejineaswar"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a>
