@@ -1,8 +1,5 @@
 ### Hey I'm Thejin
 <p align="center">
-  I am a pre final year student from <a href="https://vit.ac.in" target="_blank">Vellore Institute of Technology</a>. I apply Deep Learning and Machine Learning on problem statements which makes a positive impact.
-</p>
-<p align="center">
     <a href="https://www.linkedin.com/in/gthejin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.kaggle.com/thejineaswar"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25></a>
 </p>
