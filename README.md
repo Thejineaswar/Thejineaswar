@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">,  I'm Thejin
+### Hey I'm Thejin
 <p align="center">
   I am a pre final year student from <a href="https://vit.ac.in" target="_blank">Vellore Institute of Technology</a>. I apply Deep Learning and Machine Learning on problem statements which makes a positive impact.
 </p>
